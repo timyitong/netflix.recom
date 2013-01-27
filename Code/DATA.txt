@@ -1,0 +1,3 @@
+train=../data/download_sample/training_set
+query=../data/queries-small.txt
+k=1000
